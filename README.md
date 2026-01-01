@@ -2,6 +2,7 @@
 🏗 JS, TS, Vue <br>
 🎨 CSS, SCSS, PostCSS, Tailwind <br>
 ⚙ PHP, Laravel, Go
+⚙ Ubuntu, Arch (WIP), TrueNAS, Proxmox
 
 
 # 📬
@@ -9,10 +10,10 @@
 [Website](https://hjb.dev)  
 harry at hjb dot dev
 
-# 🔨
-[GoRound.games](https://goround.games)    
-[stratbox.app](https://stratbox.app)     
-Casterbox (In Closed Alpha)    
+# 🔨    
+[stratbase.app](https://stratbase.app)
+[servergoggles.com](https://servergoggles.com)
+[GoRound.games](https://goround.games)
 
 <!--
 **HJBDev/hjbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
