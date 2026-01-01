@@ -1,7 +1,7 @@
 # 🧰
 🏗 JS, TS, Vue <br>
 🎨 CSS, SCSS, PostCSS, Tailwind <br>
-⚙ PHP, Laravel, Go
+⚙ PHP, Laravel, Go<br>
 ⚙ Ubuntu, Arch (WIP), TrueNAS, Proxmox
 
 
